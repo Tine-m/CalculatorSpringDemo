@@ -16,6 +16,6 @@ http://localhost:8080/calculator2.html
 
 #### Endpoints
 @RestController har to endpoints:
-- <i>/calc</i> der har tre paramtre for hhv. talværdier og regneart
-- <i>/calc2</i> der har de samme tre paramtre for hhv. talværdier og regneart i en Map.
+- <i>/calc</i> der har tre parametre for hhv. talværdier og regneart
+- <i>/calc2</i> der har de samme tre parametre for hhv. talværdier og regneart i en Map.
  

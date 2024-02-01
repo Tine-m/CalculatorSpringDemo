@@ -6,13 +6,13 @@
 ```
 http://localhost:8080
 ```
-<p>Hvis man skal have vist <i>calculator2.html</i> skal man skrive:</p>
+<p>Hvis man skal have vist <i>calculator.html</i> skal man skrive:</p>
 
 ```
-http://localhost:8080/calculator2.html
+http://localhost:8080/calculator.html
 ```
 
-<i>calculator2.html</i> viser regnearter i en dropdownliste, som brugeren kan vælge imellem.
+<i>calculator.html</i> viser regnearter i en dropdownliste, som brugeren kan vælge imellem.
 
 #### Endpoints
 @RestController har to endpoints:
